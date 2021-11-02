@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jefferson.
 
 - 🔭 Estou começando na área de programação
-- 🌱 Estudante Javascript
+- 🌱 Estudando Javascript
 <div align="center">
   <a href="https://https://github.com/Nyaou">
   <img align='center' height="140em" src="https://github-readme-stats.vercel.app/api?username=Nyaou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
