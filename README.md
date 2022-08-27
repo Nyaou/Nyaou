@@ -21,7 +21,7 @@
 
 ### Backend
 ![MySQL](https://img.shields.io/badge/MySQL-FFF?style=plastic&logo=MySQL)&nbsp;
-![PHP5](https://img.shields.io/badge/-PHP5-FFF?style=plastic&logo=php)&nbsp;
+![PHP&](https://img.shields.io/badge/-PHP5-FFF?style=plastic&logo=php)&nbsp;
 
 ### Tecnologias
 ![Git](https://img.shields.io/badge/-Git-FFF?style=plastic&logo=git)&nbsp;
