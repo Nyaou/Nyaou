@@ -1,8 +1,7 @@
 <h1 align="left">Olá, Eu sou Jefferson Andrade</h1>
 
-- 🔭 Atualmente procurando por vagas de frontend e backend
+- 🔭 Atualmente procurando por vagas de Frontend e Backend
 - 🌱 Terminando meu curso de Fullstack da Udemy
-- 👯 Procurando vagas de Frontend ou Backend
 - 💬 Pode me perguntar sobre Javascript e PHP
 - 👨‍💻 Projetos feitos no Frontend Mentor https://www.frontendmentor.io/profile/Nyaou
 - 👨‍💻 Projetos feitos no DevChallenges https://devchallenges.io/portfolio/Nyaou
