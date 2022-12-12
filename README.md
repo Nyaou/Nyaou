@@ -49,6 +49,6 @@
   <img align="center" src="https://img.shields.io/badge/-Nyaou9613-05122A?style=flat&logo=discord" alt="discord"/>  
 </a>
 <a href="#" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-kusanagitakeru328749@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>  
+  <img align="center" src="https://img.shields.io/badge/-Teste-05122A?style=flat&logo=gmail" alt="gmail"/>  
 </a>
 </p>
